@@ -11,18 +11,7 @@
   },
   "defaultName": "TorchPlugin",
   "sourceName": "$projectName$",
-  "postActions": [{
-    "description": "Manual actions required",
-    "manualInstructions": [{
-      "text": "Run the following command"
-    }],
-    "actionId": "AC1156F7-BB77-4DB8-B28F-24EEBCCA1E5C",
-    "args": {
-      "executable": "setup.bat",
-      "args": "<your project name>"
-    },
-    "continueOnError": true
-  }],
+  "postActions": [],
   "symbols": {
     "pluginguid":{
       "type": "generated",
